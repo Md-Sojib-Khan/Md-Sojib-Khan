@@ -1,4 +1,4 @@
-<img src="./banner/Grey and White Simple Modern Professional General Linkedin Banner.png" alt="Hello world">
+<img src="./Banner/Grey and White Simple Modern Professional General Linkedin Banner.png" alt="Hello world">
 <br/>
 <h1 align="center">Hi 👋, I'm Md Sojib Khan</h1>
 <h3 align="center">Full-Stack MERN Developer</h3>
